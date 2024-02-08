@@ -1,0 +1,14 @@
+{
+  "name": "assignment-javascript",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dwi Prasetiyo"
+  },
+  "description": "This is my assignment individual javascript project at harisenin bootcamp",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
